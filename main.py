@@ -1,8 +1,8 @@
-import numpy as npmx
+import numpy as np
 
 
 def calculate(list):
-  ls = npmx.array(list)
+  ls = np.array(list)
   print(ls)
 
   return {
